@@ -15,3 +15,5 @@ Steps to run the application:
 5. Run the app.py file using the command "streamlit run app.py" in the terminal
 
 6. Hurray! A browser will open where you can enjoy the app.
+
+![image](https://user-images.githubusercontent.com/100079429/224536250-ee75f495-1680-4cc2-a20f-dc326f4a0796.png)
